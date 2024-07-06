@@ -35,7 +35,7 @@
  <h2 align="center"> Get in Touch </h2>
  
 <div align="center"> 
-  <a href="akashjitu18@gmail">
+  <a href="mailto:akashjitu18@gmail">
 <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://linkedin.com/in/Akashjitu18" target="_blank">
