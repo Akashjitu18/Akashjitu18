@@ -9,7 +9,7 @@
 
 <div align="center">
   
-  Completed Engineering in Compuert Science at ATMECE Mysuru
+  Completed Engineering in Computer Science at ATMECE Mysuru
  
   Currently working on building career
  
