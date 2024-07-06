@@ -41,12 +41,13 @@
   <a href="https://linkedin.com/in/Akashjitu18" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" /> 
   </a>
-    <a href="https://www.instagram.com/akashhh.78" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" /> 
+      <a href="https://leetcode.com/u/Akashjitu18" target="_blank">
+<!-- <img src="https://skillicons.dev/icons?i=leetCode" />  -->
+<img  src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg alt="profile-radme-generator" height="50" width="50" />
 
   </a>
-      <a href="https://leetcode.com/u/Akashjitu18" target="_blank">
-<img src="https://skillicons.dev/icons?i=  leetcode" /> 
+    <a href="https://www.instagram.com/akashhh.78" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" /> 
 
   </a>
 </div>
