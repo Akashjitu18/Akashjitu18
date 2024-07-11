@@ -45,6 +45,12 @@
 <!-- <img src="https://skillicons.dev/icons?i=leetCode" />  -->
 <img  src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg alt="profile-radme-generator" height="50" width="50" />
 
+ </a>
+      <a href="https://hackerrank.com/akashjitu18" target="_blank">
+<!-- <img src="https://skillicons.dev/icons?i=leetCode" />  -->
+<img  src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg alt="profile-radme-generator" height="50" width="50" />
+
+
   </a>
     <a href="https://www.instagram.com/akashhh.78" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" /> 
