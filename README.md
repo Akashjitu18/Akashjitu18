@@ -9,14 +9,10 @@
 
 <div align="center">
   
-  Completed Engineering in Computer Science at ATMECE Mysuru
- 
-  Currently working on building career
- 
-  Learning **DSA , Web Dev, Python**
+  
+Mobile focused Software Engineer with around 2 years of Corporate experience.
 
-
-⚡ Fun fact **Why do Programmers prefer Dark mode? Because Light attracts Bugs.**
+Here is my <a href="https://akash-sde.vercel.app/">Portfolio</a> and if you find me useful let's connect.
 
 
  <br/>
@@ -24,9 +20,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,expressjs,react,mongodb,nextjs" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,mongo" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,androidstudio,figma,postman,git" /><br>
 </div>
 
 <br/>
@@ -53,7 +49,7 @@
 
 
   </a>
-    <a href="https://www.instagram.com/akashhh.78" target="_blank">
+    <a href="https://www.instagram.com/akash.decoded" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" /> 
 
   </a>
